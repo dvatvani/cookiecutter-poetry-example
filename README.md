@@ -6,7 +6,7 @@
 [![Commit activity](https://img.shields.io/github/commit-activity/m/dvatvani/cookiecutter-poetry-example)](https://img.shields.io/github/commit-activity/m/dvatvani/cookiecutter-poetry-example)
 [![License](https://img.shields.io/github/license/dvatvani/cookiecutter-poetry-example)](https://img.shields.io/github/license/dvatvani/cookiecutter-poetry-example)
 
-A Python package...
+A sample Python package project made with [cookiecutter-poetry ](https://github.com/dvatvani/cookiecutter-poetry).
 
 - **Github repository**: <https://github.com/dvatvani/cookiecutter-poetry-example/>
 - **Documentation** <https://dvatvani.github.io/cookiecutter-poetry-example/>
