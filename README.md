@@ -38,8 +38,6 @@ To enable the code coverage reports, see [here](https://dvatvani.github.io/cooki
 
 ## Releasing a new version
 
-
-
 ---
 
 Repository initiated with [dvatvani/cookiecutter-poetry](https://github.com/dvatvani/cookiecutter-poetry).
