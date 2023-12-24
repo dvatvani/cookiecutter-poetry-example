@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://dvatvani.github.io/cookiecutter-poetry-example/</loc>
+         <lastmod>2023-12-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dvatvani.github.io/cookiecutter-poetry-example/reference/SUMMARY/</loc>
+         <lastmod>2023-12-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dvatvani.github.io/cookiecutter-poetry-example/reference/cookiecutter_poetry_example/__init__/</loc>
+         <lastmod>2023-12-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dvatvani.github.io/cookiecutter-poetry-example/reference/cookiecutter_poetry_example/foo/</loc>
+         <lastmod>2023-12-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
